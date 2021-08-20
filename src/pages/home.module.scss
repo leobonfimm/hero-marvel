@@ -1,0 +1,20 @@
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 2rem;
+  margin-top: 2rem;
+  background-color: #dedede;
+  border-radius: 10px;
+
+  @media(max-width: 1368px) {
+    max-width: 1120px;
+  }
+}
+
+.content {
+  margin-top: 2rem;
+  display: flex;
+  align-items: stretch;
+  gap: 1rem;
+  overflow-x: auto;
+}

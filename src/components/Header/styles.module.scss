@@ -1,0 +1,13 @@
+.headerContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #202020;
+  height: 4rem;
+  
+  > a {
+    text-decoration: none;
+    font-size: 0;
+  }
+}

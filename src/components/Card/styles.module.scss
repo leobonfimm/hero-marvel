@@ -1,0 +1,17 @@
+.container {
+  min-width: 300px;
+  background-color: #EC1D24;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  gap: 1rem;
+
+  img:hover {
+    transform: scale(1.2);
+  }
+}
