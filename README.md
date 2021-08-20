@@ -29,7 +29,7 @@ Aplicação feita em NextJs que busca dados de uma API pública da Marvel.
 
 <a id="como-executar"></a>
 ## 👨‍💻 Como executar
-- Extrair o repositório
+- Extrair/Clonar o repositório
 - Instalar as dependências com ```yarn```
 - Inicie o servidor com ```yarn dev```
 - Abra seu navegaodr e bastar colcoar ```http://localhost:3000```
