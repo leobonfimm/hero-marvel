@@ -25,7 +25,7 @@
 
 <a id="projeto"></a>
 ## 🛠️ Projeto
-Aplicação feita em NextJs que busca dados de uma API pública da Marvel e mostrando informações na tela.
+Aplicação feita em NextJs que busca dados de uma API pública da Marvel.
 
 <a id="como-executar"></a>
 ## 👨‍💻 Como executar
